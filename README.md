@@ -1,5 +1,11 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! Sou o Vitor Castro!!
 
+
+<div>
+  <a href="github.com/Castruu">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Castruu&show_icons=true&theme=dracula&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castruu&layout=compact&theme=dracula">
+ </div>
 <!--
 **Castruu/Castruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
