@@ -1,7 +1,7 @@
 ### Welcome to my profile!
 
-I’m currently working on Web Development/Minecraft Plugins Development
- I'm currently learning Java Script looking forward to learn ReactJS
+I’m currently working on Web and Mobile Development using ReactJS and React Native.
+
 
 <div>
   <a href="github.com/Castruu">
