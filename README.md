@@ -11,7 +11,7 @@ I’m currently working on Web and Mobile Development using ReactJS and React Na
 
 🧰 Toolbox
   
- <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+ <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 
 
  
