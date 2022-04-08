@@ -11,11 +11,10 @@ I’m currently working on Web and Mobile Development using ReactJS and React Na
 
 🧰 Toolbox
   <div>
-    <ul>
-      <li>Mobile with React Native</li>
-      <li>Web with ReactJS</li>
-      <li>Database services with SQL</li>
-      <li>Minecraft plugin development with Kotlin/Java</li>
+      * Mobile with React Native
+      * Web with ReactJS
+      * Database services with SQL
+      * Minecraft plugin development with Kotlin/Java
     </ul>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
