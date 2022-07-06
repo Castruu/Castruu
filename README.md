@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I’m currently working on Web and Mobile Development using ReactJS and React Native.
+I am a Full-Stack Developer focusing on Spring Boot (Back-End), ReactJS (Web Front-End) and React Native (Mobile Development).
 
 
 <div>
@@ -11,7 +11,8 @@ I’m currently working on Web and Mobile Development using ReactJS and React Na
 🧰 Toolbox
   <ul>
       <li>Mobile with React Native</li>
-      <li>Web with ReactJS</li>
+      <li>Front-End with ReactJS</li>
+      <li>Back-End with Spring</li>
       <li>Database services with SQL</li>
       <li>Minecraft plugin development with Kotlin/Java</li>
   </ul>
