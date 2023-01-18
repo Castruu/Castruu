@@ -4,8 +4,8 @@ I am a Full-Stack Developer focusing on Spring Boot (Back-End), ReactJS (Web Fro
 
 
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Castruu&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castruu&layout=compact&theme=dracula">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Castruu&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Castruu&layout=compact&theme=dracula">
 </div>
 
 🧰 Toolbox
